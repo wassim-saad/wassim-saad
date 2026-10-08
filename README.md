@@ -1,15 +1,7 @@
 # Wassim Saad
 
-**Technicien Supérieur en Informatique** — Licence en Technologies de l'Informatique, ISET Zaghouan (Mention Bien)
+Développeur Flutter et web, à Zriba (Zaghouan), Tunisie.
 
-📍 Zriba, Zaghouan — Tunisie
+Je travaille surtout avec Flutter, Next.js, TypeScript et PostgreSQL / Supabase.
 
-- 📱 **Mobile** : Flutter (Dart) — applications Android / iOS publiées sur Google Play et l'App Store
-- 🌐 **Web** : Next.js, React, TypeScript, API REST
-- 🗄️ **Données** : SQL (PostgreSQL, MySQL), Supabase, tableaux de bord et suivi d'indicateurs
-- 🛠️ **Support informatique** : Windows, assistance utilisateurs, notions réseaux
-
-> Mon activité récente se trouve sur des dépôts privés (projets clients).
-> Mes projets publics plus anciens sont sur [@wassimD28](https://github.com/wassimD28).
-
-📫 wassim28saad@gmail.com
+Mon travail actuel est dans des dépôts privés. Mes anciens projets publics sont sur [wassimD28](https://github.com/wassimD28).
