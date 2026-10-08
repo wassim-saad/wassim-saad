@@ -1,6 +1,7 @@
 # Wassim Saad
 
 **Technicien Supérieur en Informatique** — Licence en Technologies de l'Informatique, ISET Zaghouan (Mention Bien)
+
 📍 Zriba, Zaghouan — Tunisie
 
 - 📱 **Mobile** : Flutter (Dart) — applications Android / iOS publiées sur Google Play et l'App Store
